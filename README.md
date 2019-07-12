@@ -10,4 +10,4 @@
   
 </h1>
 
-![alt text] (https://media.giphy.com/media/2zoCwINK8duBFhrpwe/giphy.gif)
+![alt text](https://media.giphy.com/media/2zoCwINK8duBFhrpwe/giphy.gif)
